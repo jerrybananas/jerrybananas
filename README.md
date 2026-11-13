@@ -1,24 +1,22 @@
-
 # Hi, I'm Antonis Rouseas 👋
 
-I'm an Informatics & Telematics graduate from Harokopio University of Athens, focused on backend development and software engineering.
+BSc in Informatics & Telematics from Harokopio University of Athens. I build backend applications and data-driven systems, with a growing interest in infrastructure and cybersecurity.
 
 ### Tech Stack
-- **Languages:** Java, Python, SQL, C
-- **Backend:** Spring Boot, FastAPI, REST APIs
-- **Databases:** MySQL, Oracle SQL
-- **Tools:** Git, GitHub Actions
 
-### Featured Project
+- **Backend:** Java · Spring Boot · Spring Security · Hibernate/JPA · Python · FastAPI · REST APIs · WebSockets
+- **Data & IoT:** SQL · MySQL · Data Analysis · Clustering · BI · ThingsBoard · IoT Telemetry
+- **Development & Testing:** Git · GitHub Actions · CI/CD · Docker · Apache JMeter
 
-**Smart Campus — Analytics & Decision Support**
+### Selected Projects
 
-My bachelor's thesis project, combining IoT telemetry, Python-based data processing and analytics to support university facility management.
-
-🔗 [Explore the live Smart Campus report](https://smartcampus.hua.gr/reports/smartcampus-recommendations.html)
+- **[Smart Campus](https://smartcampus.hua.gr/reports/smartcampus-recommendations.html)** — IoT telemetry and Python analytics for university decision support.
+- **[Pet Registry](https://github.com/jerrybananas/Distributed-Systems-Assignment)** — Spring Boot/MySQL application with REST APIs and role-based access control.
+- **[Web Performance Analysis](https://github.com/jerrybananas/jmeter-web-performance-analysis)** — 24 JMeter test configurations, 61,296 HTTP records, and analysis in Python/Jupyter.
+- **[Grace Compiler](https://github.com/jerrybananas/Grace-Compiler)** — Java compiler using JFlex and JavaCUP.
 
 ### Currently
-- Exploring junior software engineering opportunities
-- Interested in backend systems, infrastructure and cybersecurity
 
-[LinkedIn](https://www.linkedin.com/in/antonis-rouseas/) · [GitHub Projects](https://github.com/jerrybananas?tab=repositories)
+Exploring junior backend and software engineering opportunities in Athens.
+
+[LinkedIn](https://www.linkedin.com/in/antonis-rouseas/)
