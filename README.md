@@ -19,14 +19,6 @@ I build backend applications, data-processing pipelines and software engineering
 | 🌍 **[Thessaloniki Air Quality — Node-RED](https://github.com/jerrybananas/nodered-thessaloniki-air-quality-lambda)** | **Node-RED · APIs · K-means** — Lambda-style data flows, sensor monitoring, charts, maps and automated alert rules. |
 | 🧠 **[Bankruptcy Prediction](https://github.com/jerrybananas/bankruptcy-prediction-ml)** | **Python · XGBoost · scikit-learn** — imbalanced classification, feature engineering and model evaluation. |
 
-<p align="center">
-  <a href="https://github.com/jerrybananas/smartcampus-omirou-bi">
-    <img src="https://raw.githubusercontent.com/jerrybananas/smartcampus-omirou-bi/main/assets/report-overview.webp" alt="SmartCampus thesis: historical indoor-air-quality analytics dashboard" width="720"/>
-  </a>
-  <br/>
-  <sub>SmartCampus Omirou — thesis report also <a href="https://smartcampus.hua.gr/reports/smartcampus-recommendations.html">published by Harokopio University</a>.</sub>
-</p>
-
 ## Technical Toolkit
 
 - **Backend:** Java, Spring Boot, Spring Security, REST APIs, Hibernate/JPA, MySQL, Maven
