@@ -1,22 +1,40 @@
 # Hi, I'm Antonis Rouseas 👋
 
-BSc in Informatics & Telematics from Harokopio University of Athens. I build backend applications and data-driven systems, with a growing interest in infrastructure and cybersecurity.
+**Software Engineering · Java / Spring Boot · Python · Data & IoT**
 
-### Tech Stack
+BSc in **Informatics & Telematics** from **Harokopio University of Athens**.
 
-- **Backend:** Java · Spring Boot · Spring Security · Hibernate/JPA · Python · FastAPI · REST APIs · WebSockets
-- **Data & IoT:** SQL · MySQL · Data Analysis · Clustering · BI · ThingsBoard · IoT Telemetry
-- **Development & Testing:** Git · GitHub Actions · CI/CD · Docker · Apache JMeter
+I build backend applications, data-processing pipelines and software engineering tools. My projects cover role-based web services, compilers, performance testing, IoT analytics and applied machine learning.
 
-### Selected Projects
+📍 **Athens, Greece** · Interested in **junior backend / software engineering opportunities**, with a growing interest in infrastructure and cybersecurity.
 
-- **[Smart Campus](https://smartcampus.hua.gr/reports/smartcampus-recommendations.html)** — IoT telemetry and Python analytics for university decision support.
-- **[Pet Registry](https://github.com/jerrybananas/Distributed-Systems-Assignment)** — Spring Boot/MySQL application with REST APIs and role-based access control.
-- **[Web Performance Analysis](https://github.com/jerrybananas/jmeter-web-performance-analysis)** — 24 JMeter test configurations, 61,296 HTTP records, and analysis in Python/Jupyter.
-- **[Grace Compiler](https://github.com/jerrybananas/Grace-Compiler)** — Java compiler using JFlex and JavaCUP.
+## Featured Projects
 
-### Currently
+| Project | What I worked on |
+|---|---|
+| 🐾 **[Pet Registry System](https://github.com/jerrybananas/Distributed-Systems-Assignment)** | **Java · Spring Boot · Spring Security · JPA · MySQL** — role-based citizen, veterinarian and administrator workflows; REST endpoints and database persistence. |
+| 🌿 **[SmartCampus Omirou — BSc Thesis](https://github.com/jerrybananas/smartcampus-omirou-bi)** | **Python · pandas · IoT · BI** — historical CO₂ telemetry from 11 sensors, classroom analytics and evidence-aware recommendations. **[University-hosted report](https://smartcampus.hua.gr/reports/smartcampus-recommendations.html)**. |
+| ⚙️ **[Grace Compiler](https://github.com/jerrybananas/Grace-Compiler)** | **Java · JFlex · JavaCUP** — lexical parsing, semantic analysis and C code generation for a small programming language. |
+| 📈 **[Web Performance Analysis](https://github.com/jerrybananas/jmeter-web-performance-analysis)** | **Apache JMeter · Python · Jupyter** — 24 workload configurations and analysis of 61,296 recorded HTTP requests. |
+| 🌍 **[Thessaloniki Air Quality — Node-RED](https://github.com/jerrybananas/nodered-thessaloniki-air-quality-lambda)** | **Node-RED · APIs · K-means** — Lambda-style data flows, sensor monitoring, charts, maps and automated alert rules. |
+| 🧠 **[Bankruptcy Prediction](https://github.com/jerrybananas/bankruptcy-prediction-ml)** | **Python · XGBoost · scikit-learn** — imbalanced classification, feature engineering and model evaluation. |
 
-Exploring junior backend and software engineering opportunities in Athens.
+<p align="center">
+  <a href="https://github.com/jerrybananas/smartcampus-omirou-bi">
+    <img src="https://raw.githubusercontent.com/jerrybananas/smartcampus-omirou-bi/main/assets/report-overview.webp" alt="SmartCampus thesis: historical indoor-air-quality analytics dashboard" width="720"/>
+  </a>
+  <br/>
+  <sub>SmartCampus Omirou — thesis report also <a href="https://smartcampus.hua.gr/reports/smartcampus-recommendations.html">published by Harokopio University</a>.</sub>
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/antonis-rouseas/)
+## Technical Toolkit
+
+- **Backend:** Java, Spring Boot, Spring Security, REST APIs, Hibernate/JPA, MySQL, Maven
+- **Data & ML:** Python, pandas, NumPy, scikit-learn, XGBoost, Jupyter
+- **Integration & testing:** Git, Apache JMeter, Node-RED, ThingsBoard, HTTP APIs
+
+*Some repositories are educational or historical project showcases rather than deployed services. Their READMEs document code availability, saved results and known limitations.*
+
+## Connect
+
+💼 [LinkedIn](https://www.linkedin.com/in/antonis-rouseas/) · 🏫 [Published SmartCampus thesis report](https://smartcampus.hua.gr/reports/smartcampus-recommendations.html)
